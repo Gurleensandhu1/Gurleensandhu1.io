@@ -1,0 +1,136 @@
+h1 {
+	font-family: Roboto, Helvetica, sans-serif;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+
+p {
+	font-size: 15px;
+}
+
+.heading {
+	text-align: center;
+}
+
+.hrline {
+	border: 3px solid black;
+}
+
+.offerContents {
+	font-family: sans-serif;
+}
+
+.container {
+	content: center;
+	margin: 5px;
+	font-size: 13px;
+}
+
+.offer {
+	display: inline-block;
+	width: 1000px;
+	margin: 4px;
+	text-align: center;
+	border: 1 px solid;
+	border-color: #cccccc;
+
+}
+
+table {
+	width: 100%;
+	background-color: #ffffff;
+	border-spacing: 0px;
+}
+
+td {
+	font-weight: lighter;
+	color: black;
+	padding-left: 45px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 0px;
+	text-align: left;
+	vertical-align: text-top;
+
+}
+
+.EDU {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.EDU ul li {
+	list-style-type: none;
+}
+
+.RC {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.RC ul li {
+	list-style-type: none;
+}
+
+.CS {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.CS ul li {
+	list-style-type: none;
+}
+
+.EX1 {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.EX1 ul li{
+	list-style-type: none;
+}
+
+.EX2 {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.EX2 ul li{
+	list-style-type: none;
+}
+
+.HR {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.HR ul li {
+	list-style-type: none;
+}
+
+.AC {
+	display: inline-flex;
+	margin-left: 10px;
+}
+
+.AC ul li {
+	list-style-type: none;
+}
+
+.EX1 ul ul li{
+	list-style-type: square;
+}
+
+.EX2 ul ul li{
+	list-style-type: square;
+}
+
